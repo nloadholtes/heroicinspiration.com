@@ -5,6 +5,7 @@ date: 2016-12-02T21:11:07+00:00
 author: Nick
 layout: page
 guid: https://heroicinspiration.com/?page_id=7
+permalink: /heroic-inspiration-api
 ---
 # A database full of quotes&#8230; endless possibilities.
 

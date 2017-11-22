@@ -5,6 +5,7 @@ date: 2016-12-07T22:18:04+00:00
 author: Nick
 layout: page
 guid: https://heroicinspiration.com/?page_id=24
+permalink: /payments
 ---
 ## Thank you for your interest!
 

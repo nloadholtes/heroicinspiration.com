@@ -5,6 +5,7 @@ date: 2016-12-02T21:15:22+00:00
 author: Nick
 layout: page
 guid: https://heroicinspiration.com/?page_id=9
+permalink: /daily-stoic-inspiration
 ---
 <div>
   <img class="alignnone wp-image-10 size-full" src="https://i2.wp.com/heroicinspiration.com/wp-content/uploads/2016/12/stoic_twitter_image.jpg?resize=620%2C155&#038;ssl=1" alt="Daily Stoic Inspiration" srcset="https://i2.wp.com/heroicinspiration.com/wp-content/uploads/2016/12/stoic_twitter_image.jpg?w=800&ssl=1 800w, https://i2.wp.com/heroicinspiration.com/wp-content/uploads/2016/12/stoic_twitter_image.jpg?resize=300%2C75&ssl=1 300w, https://i2.wp.com/heroicinspiration.com/wp-content/uploads/2016/12/stoic_twitter_image.jpg?resize=768%2C192&ssl=1 768w" sizes="(max-width: 620px) 100vw, 620px" data-recalc-dims="1" />

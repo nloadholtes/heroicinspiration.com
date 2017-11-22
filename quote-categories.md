@@ -5,6 +5,7 @@ date: 2017-01-24T07:39:20+00:00
 author: Nick
 layout: page
 guid: https://heroicinspiration.com/?page_id=63
+permalink: /quote-categories
 ---
 Our quotes are broken down into many categories. Here&#8217;s a listing of what we offer:
 

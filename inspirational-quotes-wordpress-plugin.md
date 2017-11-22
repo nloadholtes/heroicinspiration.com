@@ -5,6 +5,7 @@ date: 2016-12-02T21:25:00+00:00
 author: Nick
 layout: page
 guid: https://heroicinspiration.com/?page_id=16
+permalink: /inspirational-quotes-wordpress-plugin
 ---
 ## Your blog, Epic INSPIRATION
 
