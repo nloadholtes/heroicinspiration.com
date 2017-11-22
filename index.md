@@ -3,7 +3,6 @@ id: 5
 title: main
 date: 2016-12-02T21:06:14+00:00
 author: Nick
-layout: front
 guid: https://heroicinspiration.com/
 ---
 **Introducing: Heroic Inspiration.** 
