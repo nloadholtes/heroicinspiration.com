@@ -3,7 +3,7 @@ id: 63
 title: Quote Categories
 date: 2017-01-24T07:39:20+00:00
 author: Nick
-layout: page
+
 guid: https://heroicinspiration.com/?page_id=63
 permalink: /quote-categories
 ---

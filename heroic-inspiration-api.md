@@ -3,7 +3,7 @@ id: 7
 title: Heroic Inspiration API
 date: 2016-12-02T21:11:07+00:00
 author: Nick
-layout: page
+
 guid: https://heroicinspiration.com/?page_id=7
 permalink: /heroic-inspiration-api
 ---

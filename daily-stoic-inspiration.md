@@ -3,7 +3,6 @@ id: 9
 title: Daily Stoic Inspiration
 date: 2016-12-02T21:15:22+00:00
 author: Nick
-layout: page
 guid: https://heroicinspiration.com/?page_id=9
 permalink: /daily-stoic-inspiration
 ---
