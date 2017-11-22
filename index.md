@@ -5,7 +5,7 @@ date: 2016-12-02T21:06:14+00:00
 author: Nick
 guid: https://heroicinspiration.com/
 ---
-**Introducing: Heroic Inspiration.** 
+## Introducing: Heroic Inspiration.
 
 The power to help you reach new heights.
 
