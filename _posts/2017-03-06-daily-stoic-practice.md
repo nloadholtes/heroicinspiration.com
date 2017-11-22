@@ -3,11 +3,8 @@ id: 96
 title: Daily Stoic Practice
 date: 2017-03-06T10:28:58+00:00
 author: Nick
-layout: post
 guid: https://heroicinspiration.com/?p=96
 permalink: /daily-stoic-practice/
-categories:
-  - Uncategorized
 ---
 Being an <a href="https://heroicinspiration.com/the-everyday-stoic/" target="_blank">everyday stoic</a> is not hard, but it does take a little practice. Having a Daily Stoic Practice is as simple as reading and thinking about a stoic principal.
 
