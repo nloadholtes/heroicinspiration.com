@@ -3,7 +3,7 @@ id: 68
 title: Getting positive, staying positive
 date: 2017-01-25T22:02:01+00:00
 author: Nick
-layout: post
+
 guid: https://heroicinspiration.com/?p=68
 permalink: /getting-positive-staying-positive/
 categories:

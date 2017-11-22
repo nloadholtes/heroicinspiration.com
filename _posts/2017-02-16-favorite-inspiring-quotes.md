@@ -3,7 +3,7 @@ id: 77
 title: Favorite inspiring quotes
 date: 2017-02-16T09:58:06+00:00
 author: Nick
-layout: post
+
 guid: https://heroicinspiration.com/?p=77
 permalink: /favorite-inspiring-quotes/
 categories:

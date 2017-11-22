@@ -3,7 +3,7 @@ id: 84
 title: Inspiring quotes for students
 date: 2017-03-02T13:48:49+00:00
 author: Nick
-layout: post
+
 guid: https://heroicinspiration.com/?p=84
 permalink: /inspiring-quotes-students/
 categories:

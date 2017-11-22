@@ -3,7 +3,7 @@ id: 66
 title: 5 benefits of positive thinking
 date: 2017-03-13T10:46:33+00:00
 author: Nick
-layout: post
+
 guid: https://heroicinspiration.com/?p=66
 permalink: /5-benefits-positive-thinking/
 categories:

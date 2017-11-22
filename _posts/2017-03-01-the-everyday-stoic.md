@@ -3,7 +3,7 @@ id: 90
 title: The everyday stoic
 date: 2017-03-01T22:04:33+00:00
 author: Nick
-layout: post
+
 guid: https://heroicinspiration.com/?p=90
 permalink: /the-everyday-stoic/
 categories:
