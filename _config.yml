@@ -16,5 +16,5 @@ plugins:
   - jekyll-seo
 
 # exclude: ['LICENSE', 'README.md']
-
+google_analytics: UA-82465919-1
 theme: jekyll-theme-leap-day
