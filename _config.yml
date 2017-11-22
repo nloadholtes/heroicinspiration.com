@@ -1,0 +1,17 @@
+# Site settings
+title: Heroic Inspiration
+email: nick@ironboundsoftware.com
+description: Be your best self today!
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+twitter_username:
+github_username:
+
+# Build settings
+markdown: kramdown
+
+
+exclude: ['LICENSE', 'README.md']
+
+theme: jekyll-theme-leap-day
