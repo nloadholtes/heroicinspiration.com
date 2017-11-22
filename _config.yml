@@ -11,6 +11,9 @@ github_username:
 # Build settings
 markdown: kramdown
 
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo
 
 # exclude: ['LICENSE', 'README.md']
 
