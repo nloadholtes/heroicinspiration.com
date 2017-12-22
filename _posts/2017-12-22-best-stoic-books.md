@@ -25,3 +25,5 @@ It is worth noting that because these were in his journals many believe they wer
 
 This book is not as easy to read as The Obstacle Is The Way. The translation by Gregory Hays does a great job of putting the words of Marcus Aurelius into "modern" English. But the text can read like a like college text book at times. There are plenty of quotable passages in the book, but occasionally there will be a wall of text that requires a more than a quick scan to comprehend. 
 
+---
+*Please note: The links on this page are affiliate links and we will make a small commission from any purchases. We appreciate your support and understanding.*
