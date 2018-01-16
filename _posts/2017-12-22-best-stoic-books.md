@@ -3,6 +3,7 @@ title: The Best Stoic Books
 permalink: /best-stoic-books
 tags: ["stoicism", "books"]
 ---
+# The best Stoic books
 Stoicism is a timeless philosophy that is finding lots of renewed interest thanks to people like [Tim Ferriss](https://fourhourworkweek.com/) and Ryan Holiday. 
 
 From dealing with social media to facing the prospect of our our mortality, the ancient wisdom of the Stoics is very relevant today.
