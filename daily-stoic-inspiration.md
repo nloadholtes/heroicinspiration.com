@@ -6,7 +6,7 @@ author: Nick
 guid: https://heroicinspiration.com/?page_id=9
 permalink: /timeless-stoic-quotes
 ---
-
+<em>NOTE: This service was previously known as "Daily Stoic Inspiration" and has been rebranded to prevent confusion with a similarly named site.</em>
 <div>
   <p>
     You can do it. Let the wisdom of the ancients guide you to success.Knowledge and inspiration from Stoics in your inbox every weekday.
