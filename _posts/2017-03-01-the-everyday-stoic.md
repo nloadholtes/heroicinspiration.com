@@ -53,7 +53,7 @@ Doing this is not always easy. But in the end you will be a better person for it
 
 Being an everyday stoic is not something that happens overnight. It takes daily practice. If you would like, here are two resources that can help you live more intentionally everyday as a stoic:
 
-  * <a href="https://www.facebook.com/DailyStoicInspiration/" target="_blank">Daily Stoic Inspiration Facebook group</a>
-  * [Daily Stoic Inspiration email list](https://heroicinspiration.com/daily-stoic-inspiration/)
+  * <a href="https://www.facebook.com/TimelessStoicQuotes/" target="_blank">Timeless Stoic Quotes Facebook group</a>
+  * [Timeless Stoic Quotes email list](https://heroicinspiration.com/timeless-stoic-quotes/)
 
-Yes, I have bashed Facebook a little in this post. But consider this: by following the Daily Stoic Inspiration page you can have a stoic thought show up in your timeline every weekday. Think of it as the first step in positive direction to a better day and a better you.
+Yes, I have bashed Facebook a little in this post. But consider this: by following the Timeless Stoic Quotes page you can have a stoic thought show up in your timeline every weekday. Think of it as the first step in positive direction to a better day and a better you.
