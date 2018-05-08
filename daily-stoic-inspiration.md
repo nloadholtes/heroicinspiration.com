@@ -4,7 +4,7 @@ title: Daily Stoic Inspiration
 date: 2016-12-02T21:15:22+00:00
 author: Nick
 guid: https://heroicinspiration.com/?page_id=9
-permalink: /timeless-stoic-quotes
+permalink: /timeless-stoic-quotes, daily-stoic-inspiration
 ---
 
 <div>
