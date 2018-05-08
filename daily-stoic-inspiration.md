@@ -4,11 +4,8 @@ title: Daily Stoic Inspiration
 date: 2016-12-02T21:15:22+00:00
 author: Nick
 guid: https://heroicinspiration.com/?page_id=9
-permalink: /daily-stoic-inspiration
+permalink: /timeless-stoic-quotes
 ---
-<div>
-  <img class="alignnone wp-image-10 size-full" src="https://i2.wp.com/heroicinspiration.com/wp-content/uploads/2016/12/stoic_twitter_image.jpg?resize=620%2C155&#038;ssl=1" alt="Daily Stoic Inspiration" srcset="https://i2.wp.com/heroicinspiration.com/wp-content/uploads/2016/12/stoic_twitter_image.jpg?w=800&ssl=1 800w, https://i2.wp.com/heroicinspiration.com/wp-content/uploads/2016/12/stoic_twitter_image.jpg?resize=300%2C75&ssl=1 300w, https://i2.wp.com/heroicinspiration.com/wp-content/uploads/2016/12/stoic_twitter_image.jpg?resize=768%2C192&ssl=1 768w" sizes="(max-width: 620px) 100vw, 620px" data-recalc-dims="1" />
-</div>
 
 <div>
   <p>
@@ -25,7 +22,7 @@ permalink: /daily-stoic-inspiration
 	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }<br />	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.<br />	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */<br /></style>
 <div id="mc_embed_signup"><form id="mc-embedded-subscribe-form" class="validate" action="//ironboundsoftware.us4.list-manage.com/subscribe/post?u=b85e98fe64eeecfe8380a6780&amp;id=3eb61d2bdd" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank">
 <div id="mc_embed_signup_scroll">
-<h2>DAILY STOIC INSPIRATION. IN YOUR MAILBOX, EVERY WEEKDAY.</h2>
+<h2>Timeless Stoic Quotes. IN YOUR MAILBOX, EVERY WEEKDAY.</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group"><label for="mce-EMAIL">Email Address <span class="asterisk">*</span>
 </label>
@@ -65,7 +62,7 @@ permalink: /daily-stoic-inspiration
   </p>
   
   <p>
-    If you are an entrepreneur, you need daily stoic inspiration. It will start your day on the right foot with a positive mindset that allows you to accomplish anything.
+    If you are an entrepreneur, you need inspiration. Start your day on the right foot with a positive mindset that allows you to accomplish anything.
   </p>
   
   <p>
